@@ -50,7 +50,7 @@ predict = st.sidebar.button("🔍 Predict")
 st.title("🩺 Diabetes Prediction System")
 
 st.image(
-    "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200",
+    "https://www.anadolumedicalcenter.com/health-guide/what-is-diabetes-what-are-the-symptoms-of-diabetes",
     use_container_width=True
 )
 
